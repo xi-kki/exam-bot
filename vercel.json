@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/exam-bot-hero.html" },
+    { "source": "/index.html", "destination": "/exam-bot-hero.html" }
+  ]
+}
